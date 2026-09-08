@@ -1,0 +1,1 @@
+Git is a cloud based platform for hosting Git repositories
